@@ -13,6 +13,10 @@ ModelImporter:
     100010: Door_000
     100012: Door_001
     100014: DoorFrame
+    100016: Cube
+    100018: DoorFrame_001
+    100020: Icosphere
+    100022: Icosphere_001
     400000: //RootNode
     400002: Door
     400004: Hall
@@ -21,7 +25,13 @@ ModelImporter:
     400010: Door_000
     400012: Door_001
     400014: DoorFrame
+    400016: Cube
+    400018: DoorFrame_001
+    400020: Icosphere
+    400022: Icosphere_001
     2100000: unnamed
+    2100002: Material_001
+    2100004: Material
     2300000: Door
     2300002: Hall
     2300004: Hall_002
@@ -29,6 +39,10 @@ ModelImporter:
     2300008: Door_000
     2300010: Door_001
     2300012: DoorFrame
+    2300014: Cube
+    2300016: DoorFrame_001
+    2300018: Icosphere
+    2300020: Icosphere_001
     3300000: Door
     3300002: Hall
     3300004: Hall_002
@@ -36,6 +50,10 @@ ModelImporter:
     3300008: Door_000
     3300010: Door_001
     3300012: DoorFrame
+    3300014: Cube
+    3300016: DoorFrame_001
+    3300018: Icosphere
+    3300020: Icosphere_001
     4300000: HallFloor
     4300002: Door
     4300004: Hall_002
@@ -43,6 +61,10 @@ ModelImporter:
     4300008: DoorFrame
     4300010: Door_000
     4300012: Door_001
+    4300014: Cube
+    4300016: Icosphere_001
+    4300018: Icosphere
+    4300020: DoorFrame_001
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
