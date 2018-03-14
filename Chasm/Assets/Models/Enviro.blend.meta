@@ -10,27 +10,33 @@ ModelImporter:
     100004: pylon2
     100006: Cylinder
     100008: Rock1
+    100010: pipe_1
     400000: //RootNode
     400002: pylon1
     400004: pylon2
     400006: Cylinder
     400008: Rock1
+    400010: pipe_1
     2100000: Material_005
     2100002: Material_004
     2100004: unnamed
     2100006: Material_006
+    2100008: Material
     2300000: pylon1
     2300002: pylon2
     2300004: Cylinder
     2300006: Rock1
+    2300008: pipe_1
     3300000: pylon1
     3300002: pylon2
     3300004: Cylinder
     3300006: Rock1
+    3300008: pipe_1
     4300000: pylon2
     4300002: pylon1
     4300004: Cylinder
     4300006: Rock1
+    4300008: pipe_1
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

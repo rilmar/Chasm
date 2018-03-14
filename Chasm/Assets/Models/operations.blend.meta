@@ -12,6 +12,13 @@ ModelImporter:
     100008: Hall
     100010: Hall_001
     100012: Hall_002
+    100014: ceiling
+    100016: Door_002
+    100018: DoorFrame_002
+    100020: floor
+    100022: floor_001
+    100024: Shed_001
+    100026: walls
     400000: Cylinder
     400002: Icosphere
     400004: //RootNode
@@ -19,25 +26,57 @@ ModelImporter:
     400008: Hall
     400010: Hall_001
     400012: Hall_002
+    400014: ceiling
+    400016: Door_002
+    400018: DoorFrame_002
+    400020: floor
+    400022: floor_001
+    400024: Shed_001
+    400026: walls
     2100000: unnamed
+    2100002: Material_003
+    2100004: Material_002
+    2100006: Material
+    2100008: Material_001
     2300000: Cylinder
     2300002: Icosphere
     2300004: collider
     2300006: Hall
     2300008: Hall_001
     2300010: Hall_002
+    2300012: ceiling
+    2300014: Door_002
+    2300016: DoorFrame_002
+    2300018: floor
+    2300020: floor_001
+    2300022: Shed_001
+    2300024: walls
     3300000: Cylinder
     3300002: Icosphere
     3300004: collider
     3300006: Hall
     3300008: Hall_001
     3300010: Hall_002
+    3300012: ceiling
+    3300014: Door_002
+    3300016: DoorFrame_002
+    3300018: floor
+    3300020: floor_001
+    3300022: Shed_001
+    3300024: walls
     4300000: Icosphere
     4300002: Cylinder
     4300004: collider
     4300006: Hall_002
     4300008: Hall_001
     4300010: Hall
+    4300012: Shed_001
+    4300014: floor_001
+    4300016: ceiling
+    4300018: floor
+    4300020: walls
+    4300022: Door_002
+    4300024: DoorFrame_002
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}

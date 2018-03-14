@@ -24,6 +24,9 @@ ModelImporter:
     100032: floor
     100034: walls
     100036: Cube_001
+    100038: corridor
+    100040: pipes
+    100042: corridor_collider
     400000: //RootNode
     400002: Door
     400004: Hall
@@ -43,12 +46,16 @@ ModelImporter:
     400032: floor
     400034: walls
     400036: Cube_001
+    400038: corridor
+    400040: pipes
+    400042: corridor_collider
     2100000: unnamed
     2100002: Material_001
     2100004: Material
     2100006: Material_002
     2100008: Material_004
     2100010: Material_003
+    2100012: corridor
     2300000: Door
     2300002: Hall
     2300004: Hall_002
@@ -67,6 +74,9 @@ ModelImporter:
     2300030: floor
     2300032: walls
     2300034: Cube_001
+    2300036: corridor
+    2300038: pipes
+    2300040: corridor_collider
     3300000: Door
     3300002: Hall
     3300004: Hall_002
@@ -85,6 +95,9 @@ ModelImporter:
     3300030: floor
     3300032: walls
     3300034: Cube_001
+    3300036: corridor
+    3300038: pipes
+    3300040: corridor_collider
     4300000: HallFloor
     4300002: Door
     4300004: Hall_002
@@ -103,6 +116,9 @@ ModelImporter:
     4300030: floor
     4300032: walls
     4300034: Cube_001
+    4300036: corridor
+    4300038: pipes
+    4300040: corridor_collider
     7400000: Default Take
     9500000: //RootNode
   externalObjects: {}
